@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/ANIME-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/ANIME-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
 import os
@@ -96,7 +96,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/amritraj78/BRANDED-MUSIC",
+    "https://github.com/amritraj78/ANIME-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -112,17 +112,17 @@ AUTO_GCAST = os.getenv("AUTO_GCAST", "on")
 # Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
 AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
-# Only  Links formats are  accepted for this Var value.ᴘʀᴏᴍᴏᴛɪᴏɴ ᴘʀᴏᴏғ @Dns_Official_Channel @DNS_NETWORK ᴀʙᴏᴜᴛ @S12kgamer_YT
+# Only  Links formats are  accepted for this Var value.ᴘʀᴏᴍᴏᴛɪᴏɴ ᴘʀᴏᴏғ @FRIENDS_X_FOREVERS @FRIEND_X_FOREVERS ᴀʙᴏᴜᴛ @amrit_raj_9
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ANIMES_UNBOUND"
-)  # Example:- https://t.me/Dns_Official_Channel
+    "SUPPORT_CHANNEL", "https://t.me/FRIENDS_X_FOREVERS"
+)  # Example:- https://t.me/FRIENDS_X_FOREVERS
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/ANIME_UNBOUND"
-)  # Example:- https://t.me/DNS_NETWORK
+    "SUPPORT_GROUP", "https://t.me/FRIEND_X_FOREVERS"
+)  # Example:- https://t.me/FRIEND_X_FOREVERS
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/ANIME_UNBOUND"
-)  # Example:- https://t.me/DNS_NETWORK
+    "SUPPORT_GROUP", "https://t.me/FRIEND_X_FOREVERS"
+)  # Example:- https://t.me/FRIEND_X_FOREVERS
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
 
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/IamDvis/DV-MUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/amritraj78/ANIME-MUSIC")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
