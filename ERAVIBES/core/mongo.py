@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/ANIME-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/ANIME-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
 #
@@ -21,7 +21,7 @@ TEMP_MONGODB = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "𝐍o 𝐌ONGO 𝐃B 𝐔RL 𝐅ound.. 𝐘our 𝐁ot 𝐖ill 𝐖ork 𝐎n 𝐕𝐈𝐏 𝐌𝐔𝐒𝐈𝐂 𝐃atabase"
+        "𝐍o 𝐌ONGO 𝐃B 𝐔RL 𝐅ound.. 𝐘our 𝐁ot 𝐖ill 𝐖ork 𝐎n 𝐀𝐍𝐈𝐌𝐄 𝐌𝐔𝐒𝐈𝐂 𝐃atabase"
     )
     temp_client = Client(
         "ERAVIBES",
