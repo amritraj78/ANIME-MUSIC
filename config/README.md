@@ -1,4 +1,4 @@
-# ERA VIBES Bot Configs
+# ANIME VIBES Bot Configs
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
@@ -88,7 +88,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Images/Thumbnail Vars
 
-- You can change images which are used in ERA VIBES Bot.
+- You can change images which are used in ANIME VIBES Bot.
 - You can generate telegaph links from [@VIPTelegraphBot](http://t.me/VIPTelegraphBot) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
