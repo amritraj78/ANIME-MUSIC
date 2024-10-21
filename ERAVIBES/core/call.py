@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/ANIME-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/ANIME-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
 import asyncio
