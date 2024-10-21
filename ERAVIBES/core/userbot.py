@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/ANIME-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/ANIME-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
 #
@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ANIMES_UNBOUND")
-                await self.one.join_chat("ANIMES_UNBOUND")
-                await self.one.join_chat("ANIMES_UNBOUND")
-                await self.one.join_chat("ANIMES_UNBOUND")
+                await self.one.join_chat("FRIEND_X_FOREVERS")
+                await self.one.join_chat("FRIEND_X_FOREVERS")
+                await self.one.join_chat("FRIEND_X_FOREVERS")
+                await self.one.join_chat("FRIEND_X_FOREVERS")
             except:
                 pass
             assistants.append(1)
@@ -93,10 +93,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ANIMES_UNBOUND")
-                await self.two.join_chat("ANIMES_UNBOUND")
-                await self.two.join_chat("ANIMES_UNBOUND")
-                await self.two.join_chat("ANIMES_UNBOUND")
+                await self.two.join_chat("FRIEND_X_FOREVERS")
+                await self.two.join_chat("FRIEND_X_FOREVERS")
+                await self.two.join_chat("FRIEND_X_FOREVERS")
+                await self.two.join_chat("FRIEND_X_FOREVERS")
             except:
                 pass
             assistants.append(2)
@@ -121,10 +121,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("ANIMES_UNBOUND")
-                await self.three.join_chat("ANIMES_UNBOUND")
-                await self.three.join_chat("ANIMES_UNBOUND")
-                await self.three.join_chat("ANIMES_UNBOUND")
+                await self.three.join_chat("FRIEND_X_FOREVERS")
+                await self.three.join_chat("FRIEND_X_FOREVERS")
+                await self.three.join_chat("FRIEND_X_FOREVERS")
+                await self.three.join_chat("FRIEND_X_FOREVERS")
             except:
                 pass
             assistants.append(3)
@@ -149,10 +149,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("ANIMES_UNBOUND")
-                await self.four.join_chat("ANIMES_UNBOUND")
-                await self.four.join_chat("ANIMES_UNBOUND")
-                await self.four.join_chat("ANIMES_UNBOUND")
+                await self.four.join_chat("FRIEND_X_FOREVERS")
+                await self.four.join_chat("FRIEND_X_FOREVERS")
+                await self.four.join_chat("FRIEND_X_FOREVERS")
+                await self.four.join_chat("FRIEND_X_FOREVERS")
             except:
                 pass
             assistants.append(4)
@@ -177,10 +177,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("ANIMES_UNBOUND")
-                await self.five.join_chat("ANIMES_UNBOUND")
-                await self.five.join_chat("ANIMES_UNBOUND")
-                await self.five.join_chat("ANIMES_UNBOUND")
+                await self.five.join_chat("FRIEND_X_FOREVERS")
+                await self.five.join_chat("FRIEND_X_FOREVERS")
+                await self.five.join_chat("FRIEND_X_FOREVERS")
+                await self.five.join_chat("FRIEND_X_FOREVERS")
             except:
                 pass
             assistants.append(5)
